@@ -3,3 +3,18 @@ creates a git header meta data so commits can be made
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 place where files held temp until commit. good for committing in phases.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Manage files one by one
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Creating multiple versions and exploring codes.
+
+How do the diagrams help you visualize the branch structure?
+Easier to track changes and understand the concepts.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combines two features into one. Easy to visualize in diagram form and see the history.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Easy to do simple merges in auto merges - assuming teams working on separate features. manually to fix complex conflicts.
